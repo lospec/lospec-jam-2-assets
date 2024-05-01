@@ -22,10 +22,12 @@ You are welcome to add any assets to this repo that other people can use for Los
 # Credits
 Palette:
 - [Console16](https://lospec.com/palette-list/console16) by [adamPhoebe](https://lospec.com/adamphoebe)
+
 Fonts:
 - [BM Space](https://www.dafont.com/bm-space.font) by [BitmapMania](https://www.dafont.com/bitmapmania.d283)
 - [BM Japan](https://www.dafont.com/bm-japan.font) by [BitmapMania](https://www.dafont.com/bitmapmania.d283)
 - [04b03](http://04.jp.org/) by [Yuji Oshimoto](http://04.jp.org/)
+
 Promotional:
 - Logo by Ty.mp3
 - Console Render by Ty.mp3
