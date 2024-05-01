@@ -1,0 +1,20 @@
+GIMP Palette
+#Palette Name: Console16
+#Description: Based on the ZX Spectrum Palette, Console16 is designed to provide nice, pleasing looking colors while mantaining the vibrant tones of the original.
+#Colors: 16
+255	3	43	ff032b
+128	0	52	800034
+255	255	13	ffff0d
+255	143	0	ff8f00
+10	255	10	0aff0a
+0	112	98	007062
+13	255	255	0dffff
+60	128	219	3c80db
+41	41	255	2929ff
+45	0	110	2d006e
+255	8	255	ff08ff
+110	0	133	6e0085
+38	10	52	260a34
+0	0	0	000000
+255	255	255	ffffff
+125	125	163	7d7da3
